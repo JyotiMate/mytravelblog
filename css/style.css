@@ -45,7 +45,7 @@
 /* STYLING FOR LANDING PAGE*/
 .main {
 	position: relative;
-	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("./images/IMG1.jpg");
+	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("./images/IMG1.JPG");
 	min-height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -124,7 +124,7 @@
 
 .main-gallery {
 	position: relative;
-	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("./images/MV4.jpg");
+	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("../images/MV4.JPG");
 	min-height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -181,7 +181,7 @@
 .contact-page{
 	position: relative;
 	text-align: center;
-	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("./images/MV4.jpg");
+	background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("../images/MV4.JPG");
 	min-height: 100vh;
 	background-size: cover;
 	background-position: center;
